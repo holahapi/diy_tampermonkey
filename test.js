@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         diy_test
 // @namespace    http://tampermonkey.net/
-// @version      0.6
-// @updateURL    https://raw.githubusercontent.com/holahapi/diy_tampermonkey/main/test.js?token=GHSAT0AAAAAABY5HTQFFXR3IYFRKNCFHO7WY3MZJ7Q
-// @downloadURL  https://raw.githubusercontent.com/holahapi/diy_tampermonkey/main/test.js?token=GHSAT0AAAAAABY5HTQFFXR3IYFRKNCFHO7WY3MZJ7Q
+// @version      0.7
+// @updateURL    https://github.com/holahapi/diy_tampermonkey/blob/main/test.js
+// @downloadURL  https://github.com/holahapi/diy_tampermonkey/blob/main/test.js
 // @description  try to take over the world!
 // @author       You
 // @match        https://lihkg.com
@@ -13,6 +13,6 @@
 
 (function() {
     'use strict';
-alert("this is v 0.6");
+alert("this is v 0.7");
     // Your code here...
 })();
