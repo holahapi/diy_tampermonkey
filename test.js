@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         diy_test
 // @namespace    http://tampermonkey.net/
-// @version      0.7
+// @version      0.8
 // @updateURL    https://github.com/holahapi/diy_tampermonkey/blob/main/test.js
 // @downloadURL  https://github.com/holahapi/diy_tampermonkey/blob/main/test.js
 // @description  try to take over the world!
@@ -13,6 +13,6 @@
 
 (function() {
     'use strict';
-alert("this is v 0.7");
+alert("this is v 0.8");
     // Your code here...
 })();
